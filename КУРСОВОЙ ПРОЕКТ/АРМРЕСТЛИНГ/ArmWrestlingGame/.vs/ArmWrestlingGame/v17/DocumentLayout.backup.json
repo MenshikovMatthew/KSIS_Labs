@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\_University_\\2 Curse\\~\u041A\u0443\u0440\u0441\u0430\u0447\\~\u041F\u0440\u043E\u0435\u043A\u0442\\ArmWrestlingGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C654B422-06CC-45F9-91DB-34799CE59CD9}|..\\ArmWrestlingServer\\ArmWrestlingServer.csproj|d:\\_university_\\2 curse\\~\u043A\u0443\u0440\u0441\u0430\u0447\\~\u043F\u0440\u043E\u0435\u043A\u0442\\armwrestlingserver\\_servermodules_\\_shareddatamanagement_\\shared.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C654B422-06CC-45F9-91DB-34799CE59CD9}|..\\ArmWrestlingServer\\ArmWrestlingServer.csproj|d:\\_university_\\2 curse\\~\u043A\u0443\u0440\u0441\u0430\u0447\\~\u043F\u0440\u043E\u0435\u043A\u0442\\armwrestlingserver\\_servermodules_\\_gamesessions_\\gamematch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C654B422-06CC-45F9-91DB-34799CE59CD9}|..\\ArmWrestlingServer\\ArmWrestlingServer.csproj|d:\\_university_\\2 curse\\~\u043A\u0443\u0440\u0441\u0430\u0447\\~\u043F\u0440\u043E\u0435\u043A\u0442\\armwrestlingserver\\_servermodules_\\_connection_\\clientconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1F4DBB-EE4E-48F3-9FC3-EF94FEC1EA4B}|ArmWrestlingGame.csproj|D:\\_University_\\2 Curse\\~\u041A\u0443\u0440\u0441\u0430\u0447\\~\u041F\u0440\u043E\u0435\u043A\u0442\\ArmWrestlingGame\\_clientmodules_\\_network_\\gameclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1F4DBB-EE4E-48F3-9FC3-EF94FEC1EA4B}|ArmWrestlingGame.csproj|solutionrelative:_clientmodules_\\_network_\\gameclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C654B422-06CC-45F9-91DB-34799CE59CD9}|..\\ArmWrestlingServer\\ArmWrestlingServer.csproj|d:\\_university_\\2 curse\\~\u043A\u0443\u0440\u0441\u0430\u0447\\~\u043F\u0440\u043E\u0435\u043A\u0442\\armwrestlingserver\\_servermodules_\\_server_\\gameserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1F4DBB-EE4E-48F3-9FC3-EF94FEC1EA4B}|ArmWrestlingGame.csproj|D:\\_University_\\2 Curse\\~\u041A\u0443\u0440\u0441\u0430\u0447\\~\u041F\u0440\u043E\u0435\u043A\u0442\\ArmWrestlingGame\\_clientmodules_\\_userinterface_\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1F4DBB-EE4E-48F3-9FC3-EF94FEC1EA4B}|ArmWrestlingGame.csproj|solutionrelative:_clientmodules_\\_userinterface_\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1F4DBB-EE4E-48F3-9FC3-EF94FEC1EA4B}|ArmWrestlingGame.csproj|D:\\_University_\\2 Curse\\~\u041A\u0443\u0440\u0441\u0430\u0447\\~\u041F\u0440\u043E\u0435\u043A\u0442\\ArmWrestlingGame\\_clientmodules_\\_datamanagement_\\playerdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1F4DBB-EE4E-48F3-9FC3-EF94FEC1EA4B}|ArmWrestlingGame.csproj|solutionrelative:_clientmodules_\\_datamanagement_\\playerdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1F4DBB-EE4E-48F3-9FC3-EF94FEC1EA4B}|ArmWrestlingGame.csproj|D:\\_University_\\2 Curse\\~\u041A\u0443\u0440\u0441\u0430\u0447\\~\u041F\u0440\u043E\u0435\u043A\u0442\\ArmWrestlingGame\\_clientmodules_\\_datamanagement_\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1F4DBB-EE4E-48F3-9FC3-EF94FEC1EA4B}|ArmWrestlingGame.csproj|solutionrelative:_clientmodules_\\_datamanagement_\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1F4DBB-EE4E-48F3-9FC3-EF94FEC1EA4B}|ArmWrestlingGame.csproj|D:\\_University_\\2 Curse\\~\u041A\u0443\u0440\u0441\u0430\u0447\\~\u041F\u0440\u043E\u0435\u043A\u0442\\ArmWrestlingGame\\_clientmodules_\\_userinterface_\\twoplayerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1F4DBB-EE4E-48F3-9FC3-EF94FEC1EA4B}|ArmWrestlingGame.csproj|solutionrelative:_clientmodules_\\_userinterface_\\twoplayerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1F4DBB-EE4E-48F3-9FC3-EF94FEC1EA4B}|ArmWrestlingGame.csproj|D:\\_University_\\2 Curse\\~\u041A\u0443\u0440\u0441\u0430\u0447\\~\u041F\u0440\u043E\u0435\u043A\u0442\\ArmWrestlingGame\\_clientmodules_\\_userinterface_\\singleplayerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1F4DBB-EE4E-48F3-9FC3-EF94FEC1EA4B}|ArmWrestlingGame.csproj|solutionrelative:_clientmodules_\\_userinterface_\\singleplayerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1F4DBB-EE4E-48F3-9FC3-EF94FEC1EA4B}|ArmWrestlingGame.csproj|D:\\_University_\\2 Curse\\~\u041A\u0443\u0440\u0441\u0430\u0447\\~\u041F\u0440\u043E\u0435\u043A\u0442\\ArmWrestlingGame\\_clientmodules_\\_userinterface_\\mainmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1F4DBB-EE4E-48F3-9FC3-EF94FEC1EA4B}|ArmWrestlingGame.csproj|solutionrelative:_clientmodules_\\_userinterface_\\mainmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C654B422-06CC-45F9-91DB-34799CE59CD9}|..\\ArmWrestlingServer\\ArmWrestlingServer.csproj|d:\\_university_\\2 curse\\~\u043A\u0443\u0440\u0441\u0430\u0447\\~\u043F\u0440\u043E\u0435\u043A\u0442\\armwrestlingserver\\_servermodules_\\_serverconfiguration_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1F4DBB-EE4E-48F3-9FC3-EF94FEC1EA4B}|ArmWrestlingGame.csproj|D:\\_University_\\2 Curse\\~\u041A\u0443\u0440\u0441\u0430\u0447\\~\u041F\u0440\u043E\u0435\u043A\u0442\\ArmWrestlingGame\\_clientmodules_\\_soundmanagement_\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1F4DBB-EE4E-48F3-9FC3-EF94FEC1EA4B}|ArmWrestlingGame.csproj|solutionrelative:_clientmodules_\\_soundmanagement_\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1F4DBB-EE4E-48F3-9FC3-EF94FEC1EA4B}|ArmWrestlingGame.csproj|D:\\_University_\\2 Curse\\~\u041A\u0443\u0440\u0441\u0430\u0447\\~\u041F\u0440\u043E\u0435\u043A\u0442\\ArmWrestlingGame\\_clientmodules_\\_clientconfiguration_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1F4DBB-EE4E-48F3-9FC3-EF94FEC1EA4B}|ArmWrestlingGame.csproj|solutionrelative:_clientmodules_\\_clientconfiguration_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 383,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\_University_\\2 Curse\\~\u041A\u0443\u0440\u0441\u0430\u0447\\~\u041F\u0440\u043E\u0435\u043A\u0442\\ArmWrestlingGame\\_ClientModules_\\_UserInterface_\\LoginForm.cs",
+              "RelativeDocumentMoniker": "_ClientModules_\\_UserInterface_\\LoginForm.cs",
+              "ToolTip": "D:\\_University_\\2 Curse\\~\u041A\u0443\u0440\u0441\u0430\u0447\\~\u041F\u0440\u043E\u0435\u043A\u0442\\ArmWrestlingGame\\_ClientModules_\\_UserInterface_\\LoginForm.cs",
+              "RelativeToolTip": "_ClientModules_\\_UserInterface_\\LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T15:00:58.323Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TwoPlayerForm.cs",
+              "DocumentMoniker": "D:\\_University_\\2 Curse\\~\u041A\u0443\u0440\u0441\u0430\u0447\\~\u041F\u0440\u043E\u0435\u043A\u0442\\ArmWrestlingGame\\_ClientModules_\\_UserInterface_\\TwoPlayerForm.cs",
+              "RelativeDocumentMoniker": "_ClientModules_\\_UserInterface_\\TwoPlayerForm.cs",
+              "ToolTip": "D:\\_University_\\2 Curse\\~\u041A\u0443\u0440\u0441\u0430\u0447\\~\u041F\u0440\u043E\u0435\u043A\u0442\\ArmWrestlingGame\\_ClientModules_\\_UserInterface_\\TwoPlayerForm.cs",
+              "RelativeToolTip": "_ClientModules_\\_UserInterface_\\TwoPlayerForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T14:54:07.85Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainMenuForm.cs",
+              "DocumentMoniker": "D:\\_University_\\2 Curse\\~\u041A\u0443\u0440\u0441\u0430\u0447\\~\u041F\u0440\u043E\u0435\u043A\u0442\\ArmWrestlingGame\\_ClientModules_\\_UserInterface_\\MainMenuForm.cs",
+              "RelativeDocumentMoniker": "_ClientModules_\\_UserInterface_\\MainMenuForm.cs",
+              "ToolTip": "D:\\_University_\\2 Curse\\~\u041A\u0443\u0440\u0441\u0430\u0447\\~\u041F\u0440\u043E\u0435\u043A\u0442\\ArmWrestlingGame\\_ClientModules_\\_UserInterface_\\MainMenuForm.cs",
+              "RelativeToolTip": "_ClientModules_\\_UserInterface_\\MainMenuForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T14:53:57.091Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SinglePlayerForm.cs",
+              "DocumentMoniker": "D:\\_University_\\2 Curse\\~\u041A\u0443\u0440\u0441\u0430\u0447\\~\u041F\u0440\u043E\u0435\u043A\u0442\\ArmWrestlingGame\\_ClientModules_\\_UserInterface_\\SinglePlayerForm.cs",
+              "RelativeDocumentMoniker": "_ClientModules_\\_UserInterface_\\SinglePlayerForm.cs",
+              "ToolTip": "D:\\_University_\\2 Curse\\~\u041A\u0443\u0440\u0441\u0430\u0447\\~\u041F\u0440\u043E\u0435\u043A\u0442\\ArmWrestlingGame\\_ClientModules_\\_UserInterface_\\SinglePlayerForm.cs",
+              "RelativeToolTip": "_ClientModules_\\_UserInterface_\\SinglePlayerForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T14:54:02.38Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shared.cs",
+              "DocumentMoniker": "D:\\_University_\\2 Curse\\~\u041A\u0443\u0440\u0441\u0430\u0447\\~\u041F\u0440\u043E\u0435\u043A\u0442\\ArmWrestlingServer\\_ServerModules_\\_SharedDataManagement_\\Shared.cs",
+              "RelativeDocumentMoniker": "..\\ArmWrestlingServer\\_ServerModules_\\_SharedDataManagement_\\Shared.cs",
+              "ToolTip": "D:\\_University_\\2 Curse\\~\u041A\u0443\u0440\u0441\u0430\u0447\\~\u041F\u0440\u043E\u0435\u043A\u0442\\ArmWrestlingServer\\_ServerModules_\\_SharedDataManagement_\\Shared.cs",
+              "RelativeToolTip": "..\\ArmWrestlingServer\\_ServerModules_\\_SharedDataManagement_\\Shared.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T02:07:55.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\_University_\\2 Curse\\~\u041A\u0443\u0440\u0441\u0430\u0447\\~\u041F\u0440\u043E\u0435\u043A\u0442\\ArmWrestlingServer\\_ServerModules_\\_ServerConfiguration_\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ArmWrestlingServer\\_ServerModules_\\_ServerConfiguration_\\Program.cs",
+              "ToolTip": "D:\\_University_\\2 Curse\\~\u041A\u0443\u0440\u0441\u0430\u0447\\~\u041F\u0440\u043E\u0435\u043A\u0442\\ArmWrestlingServer\\_ServerModules_\\_ServerConfiguration_\\Program.cs",
+              "RelativeToolTip": "..\\ArmWrestlingServer\\_ServerModules_\\_ServerConfiguration_\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T02:07:53.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameServer.cs",
+              "DocumentMoniker": "D:\\_University_\\2 Curse\\~\u041A\u0443\u0440\u0441\u0430\u0447\\~\u041F\u0440\u043E\u0435\u043A\u0442\\ArmWrestlingServer\\_ServerModules_\\_Server_\\GameServer.cs",
+              "RelativeDocumentMoniker": "..\\ArmWrestlingServer\\_ServerModules_\\_Server_\\GameServer.cs",
+              "ToolTip": "D:\\_University_\\2 Curse\\~\u041A\u0443\u0440\u0441\u0430\u0447\\~\u041F\u0440\u043E\u0435\u043A\u0442\\ArmWrestlingServer\\_ServerModules_\\_Server_\\GameServer.cs",
+              "RelativeToolTip": "..\\ArmWrestlingServer\\_ServerModules_\\_Server_\\GameServer.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAtwEsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T02:07:52.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameMatch.cs",
+              "DocumentMoniker": "D:\\_University_\\2 Curse\\~\u041A\u0443\u0440\u0441\u0430\u0447\\~\u041F\u0440\u043E\u0435\u043A\u0442\\ArmWrestlingServer\\_ServerModules_\\_GameSessions_\\GameMatch.cs",
+              "RelativeDocumentMoniker": "..\\ArmWrestlingServer\\_ServerModules_\\_GameSessions_\\GameMatch.cs",
+              "ToolTip": "D:\\_University_\\2 Curse\\~\u041A\u0443\u0440\u0441\u0430\u0447\\~\u041F\u0440\u043E\u0435\u043A\u0442\\ArmWrestlingServer\\_ServerModules_\\_GameSessions_\\GameMatch.cs",
+              "RelativeToolTip": "..\\ArmWrestlingServer\\_ServerModules_\\_GameSessions_\\GameMatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T02:07:50.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientConnection.cs",
+              "DocumentMoniker": "D:\\_University_\\2 Curse\\~\u041A\u0443\u0440\u0441\u0430\u0447\\~\u041F\u0440\u043E\u0435\u043A\u0442\\ArmWrestlingServer\\_ServerModules_\\_Connection_\\ClientConnection.cs",
+              "RelativeDocumentMoniker": "..\\ArmWrestlingServer\\_ServerModules_\\_Connection_\\ClientConnection.cs",
+              "ToolTip": "D:\\_University_\\2 Curse\\~\u041A\u0443\u0440\u0441\u0430\u0447\\~\u041F\u0440\u043E\u0435\u043A\u0442\\ArmWrestlingServer\\_ServerModules_\\_Connection_\\ClientConnection.cs",
+              "RelativeToolTip": "..\\ArmWrestlingServer\\_ServerModules_\\_Connection_\\ClientConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T02:07:48.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthManager.cs",
+              "DocumentMoniker": "D:\\_University_\\2 Curse\\~\u041A\u0443\u0440\u0441\u0430\u0447\\~\u041F\u0440\u043E\u0435\u043A\u0442\\ArmWrestlingGame\\_ClientModules_\\_DataManagement_\\AuthManager.cs",
+              "RelativeDocumentMoniker": "_ClientModules_\\_DataManagement_\\AuthManager.cs",
+              "ToolTip": "D:\\_University_\\2 Curse\\~\u041A\u0443\u0440\u0441\u0430\u0447\\~\u041F\u0440\u043E\u0435\u043A\u0442\\ArmWrestlingGame\\_ClientModules_\\_DataManagement_\\AuthManager.cs",
+              "RelativeToolTip": "_ClientModules_\\_DataManagement_\\AuthManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T14:56:08.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameClient.cs",
+              "DocumentMoniker": "D:\\_University_\\2 Curse\\~\u041A\u0443\u0440\u0441\u0430\u0447\\~\u041F\u0440\u043E\u0435\u043A\u0442\\ArmWrestlingGame\\_ClientModules_\\_Network_\\GameClient.cs",
+              "RelativeDocumentMoniker": "_ClientModules_\\_Network_\\GameClient.cs",
+              "ToolTip": "D:\\_University_\\2 Curse\\~\u041A\u0443\u0440\u0441\u0430\u0447\\~\u041F\u0440\u043E\u0435\u043A\u0442\\ArmWrestlingGame\\_ClientModules_\\_Network_\\GameClient.cs",
+              "RelativeToolTip": "_ClientModules_\\_Network_\\GameClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T18:50:31.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerDataManager.cs",
+              "DocumentMoniker": "D:\\_University_\\2 Curse\\~\u041A\u0443\u0440\u0441\u0430\u0447\\~\u041F\u0440\u043E\u0435\u043A\u0442\\ArmWrestlingGame\\_ClientModules_\\_DataManagement_\\PlayerDataManager.cs",
+              "RelativeDocumentMoniker": "_ClientModules_\\_DataManagement_\\PlayerDataManager.cs",
+              "ToolTip": "D:\\_University_\\2 Curse\\~\u041A\u0443\u0440\u0441\u0430\u0447\\~\u041F\u0440\u043E\u0435\u043A\u0442\\ArmWrestlingGame\\_ClientModules_\\_DataManagement_\\PlayerDataManager.cs",
+              "RelativeToolTip": "_ClientModules_\\_DataManagement_\\PlayerDataManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T14:19:19.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "D:\\_University_\\2 Curse\\~\u041A\u0443\u0440\u0441\u0430\u0447\\~\u041F\u0440\u043E\u0435\u043A\u0442\\ArmWrestlingGame\\_ClientModules_\\_SoundManagement_\\SoundManager.cs",
+              "RelativeDocumentMoniker": "_ClientModules_\\_SoundManagement_\\SoundManager.cs",
+              "ToolTip": "D:\\_University_\\2 Curse\\~\u041A\u0443\u0440\u0441\u0430\u0447\\~\u041F\u0440\u043E\u0435\u043A\u0442\\ArmWrestlingGame\\_ClientModules_\\_SoundManagement_\\SoundManager.cs",
+              "RelativeToolTip": "_ClientModules_\\_SoundManagement_\\SoundManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T01:46:37.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\_University_\\2 Curse\\~\u041A\u0443\u0440\u0441\u0430\u0447\\~\u041F\u0440\u043E\u0435\u043A\u0442\\ArmWrestlingGame\\_ClientModules_\\_ClientConfiguration_\\Program.cs",
+              "RelativeDocumentMoniker": "_ClientModules_\\_ClientConfiguration_\\Program.cs",
+              "ToolTip": "D:\\_University_\\2 Curse\\~\u041A\u0443\u0440\u0441\u0430\u0447\\~\u041F\u0440\u043E\u0435\u043A\u0442\\ArmWrestlingGame\\_ClientModules_\\_ClientConfiguration_\\Program.cs",
+              "RelativeToolTip": "_ClientModules_\\_ClientConfiguration_\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T18:00:15.545Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 397,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
